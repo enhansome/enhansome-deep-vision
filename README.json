@@ -1,0 +1,430 @@
+{
+  "items": [
+    {
+      "description": "Please feel free to pull requests to add papers.\n",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "(from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "You Only Look Once: Unified, Real-Time Object Detection [Paper]",
+          "description": ", [Paper Version 2], [C Code], [Tensorflow Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-03T13:53:58Z",
+            "owner": "pjreddie",
+            "repo": "darknet",
+            "stars": 26490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSD [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-04-21T17:17:09Z",
+            "owner": "weiliu89",
+            "repo": "caffe",
+            "stars": 4808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R-FCN [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2017-05-05T15:50:59Z",
+            "owner": "daijifeng001",
+            "repo": "R-FCN",
+            "stars": 1248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PVANET [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-02-28T06:38:10Z",
+            "owner": "sanghoon",
+            "repo": "pva-faster-rcnn",
+            "stars": 649
+          }
+        }
+      ],
+      "title": "Object Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hyeonseob Namand Bohyung Han, Learning Multi-Domain Convolutional Neural Networks for Visual Tracking, [Paper",
+          "description": "] [Code] [Project Page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-11-01T14:08:27Z",
+            "owner": "hyseob",
+            "repo": "MDNet",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chao Ma, Jia-Bin Huang, Xiaokang Yang and Ming-Hsuan Yang, Hierarchical Convolutional Features for Visual Tracking, ICCV 2015 [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2018-12-06T00:58:53Z",
+            "owner": "jbhuang0604",
+            "repo": "CF2",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lijun Wang, Wanli Ouyang, Xiaogang Wang, and Huchuan Lu, Visual Tracking with fully Convolutional Networks, ICCV 2015 [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2017-04-05T07:37:01Z",
+            "owner": "scott89",
+            "repo": "FCNT",
+            "stars": 131
+          }
+        }
+      ],
+      "title": "Object Tracking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Low-Level Vision"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Colorful Image Colorization Richard Zhang, Phillip Isola, Alexei A. Efros, ECCV, 2016 [Paper]",
+          "description": ", [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-27T04:46:28Z",
+            "owner": "richzhang",
+            "repo": "colorization",
+            "stars": 3459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feature Learning by Inpainting[Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-07-19T21:37:48Z",
+            "owner": "pathak22",
+            "repo": "context-encoder",
+            "stars": 907
+          }
+        }
+      ],
+      "title": "Other Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image and Language"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Convolutional / Recurrent Networks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Aäron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, Koray Kavukcuoglu. \"Conditional Image Generation with PixelCNN Decoders\"[Paper]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2016-07-23T01:53:20Z",
+                "owner": "kundan2510",
+                "repo": "pixelCNN",
+                "stars": 166
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Adversarial Networks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jun-Yan Zhu, Philipp Krahenbuhl, Eli Shechtman, and Alexei A. Efros, \"Generative Visual Manipulation on the Natural Image Manifold\", ECCV 2016. [Paper",
+              "description": "] [Code] [Video]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-08-05T01:05:44Z",
+                "owner": "junyanz",
+                "repo": "iGAN",
+                "stars": 4003
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Image Generation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deepgaze: A computer vision library for human-computer interaction based on CNNs [Web",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-09T20:37:09Z",
+            "owner": "mpatacchiola",
+            "repo": "deepgaze",
+            "stars": 1878
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [Web",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Torch-based deep learning libraries: [torchnet",
+              "description": "],",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Lua",
+                "last_commit": "2019-03-27T22:21:16Z",
+                "owner": "facebookarchive",
+                "repo": "torchnet",
+                "stars": 988
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Theano: Mathematical library in Python, maintained by LISA lab [Web",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Theano-based deep learning libraries: [Pylearn2",
+              "description": "], [Blocks], [Keras], [Lasagne]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-02-19T12:41:38Z",
+                "owner": "mila-iqia",
+                "repo": "blocks",
+                "stars": 1151
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Framework"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Adversarial Training",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code and hyperparameters for the paper \"Generative Adversarial Networks\" [Web]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-05-25T03:31:19Z",
+                "owner": "goodfeli",
+                "repo": "adversarial",
+                "stars": 4076
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Understanding and Visualizing",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code for \"Understanding Deep Image Representations by Inverting Them,\" CVPR, 2015. [Web]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Matlab",
+                "last_commit": "2017-09-29T10:53:09Z",
+                "owner": "aravindhm",
+                "repo": "deep-goggle",
+                "stars": 168
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Semantic Segmentation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code for the paper \"Rich feature hierarchies for accurate object detection and semantic segmentation,\" CVPR, 2014. [Web]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Matlab",
+                "last_commit": "2017-04-03T16:16:14Z",
+                "owner": "rbgirshick",
+                "repo": "rcnn",
+                "stars": 2416
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Source code for the paper \"Fully Convolutional Networks for Semantic Segmentation,\" CVPR, 2015. [Web]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2017-09-06T23:47:34Z",
+                "owner": "longjon",
+                "repo": "caffe",
+                "stars": 81
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Super-Resolution",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Image Super-Resolution for Anime-Style-Art [Web]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2023-05-04T00:50:48Z",
+                "owner": "nagadomi",
+                "repo": "waifu2x",
+                "stars": 28217
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Edge Detection",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code for the paper \"Holistically-Nested Edge Detection\", ICCV 2015. [Web]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-04-07T16:13:16Z",
+                "owner": "s9xie",
+                "repo": "hed",
+                "stars": 1923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Source code for the paper \"DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection,\" CVPR, 2015. [Web]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "MATLAB",
+                "last_commit": "2022-03-19T07:25:18Z",
+                "owner": "shenwei1231",
+                "repo": "DeepContour",
+                "stars": 95
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Applications"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:15:05.994Z",
+    "original_repository": "kjw0612/awesome-deep-vision",
+    "original_repository_sha": "9ebfacb00edcab273fd1d7049eaa7eccc69a29cd",
+    "enhanced_repository": "enhansome/enhansome-deep-vision",
+    "enhanced_repository_description": null,
+    "title": "Awesome Deep Vision with stars"
+  }
+}
