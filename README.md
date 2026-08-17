@@ -1,6 +1,6 @@
 # Awesome Deep Vision with stars
 
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,651 | 🐛 83 | 📅 2026-07-13 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,499 | 🐛 91 | 📅 2024-05-17.
+A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,653 | 🐛 83 | 📅 2026-07-13 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,502 | 🐛 91 | 📅 2024-05-17.
 
 Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
 
@@ -8,7 +8,7 @@ The project is not actively maintained.
 
 ## Contributing
 
-Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) ⭐ 11,182 | 🐛 47 | 📅 2023-08-15 to add papers.
+Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) ⭐ 11,183 | 🐛 47 | 📅 2023-08-15 to add papers.
 
 [![Join the chat at https://gitter.im/kjw0612/awesome-deep-vision](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjw0612/awesome-deep-vision?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge\&utm_content=badge)
 
@@ -395,7 +395,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Fang Wang, Le Kang, Yi Li, Sketch-based 3D Shape Retrieval using Convolutional Neural Networks, CVPR, 2015.
 * Weakly-supervised Classification
   * Samaneh Azadi, Jiashi Feng, Stefanie Jegelka, Trevor Darrell, "Auxiliary Image Regularization for Deep CNNs with Noisy Labels", ICLR 2016, \[[Paper](http://arxiv.org/pdf/1511.07069v2.pdf)]
-* Artistic Style [\[Paper\]](http://arxiv.org/abs/1508.06576) [\[Code\]](https://github.com/jcjohnson/neural-style) ⭐ 18,285 | 🐛 316 | 🌐 Lua | 📅 2018-02-23
+* Artistic Style [\[Paper\]](http://arxiv.org/abs/1508.06576) [\[Code\]](https://github.com/jcjohnson/neural-style) ⭐ 18,284 | 🐛 316 | 🌐 Lua | 📅 2018-02-23
   * Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, A Neural Algorithm of Artistic Style.
 * Human Gaze Estimation
   * Xucong Zhang, Yusuke Sugano, Mario Fritz, Andreas Bulling, Appearance-Based Gaze Estimation in the Wild, CVPR, 2015. [\[Paper\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Appearance-Based_Gaze_Estimation_2015_CVPR_paper.pdf) [\[Website\]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild-mpiigaze/)
@@ -435,7 +435,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ### Framework
 
-* Deepgaze: A computer vision library for human-computer interaction based on CNNs \[[Web](https://github.com/mpatacchiola/deepgaze) ⭐ 1,879 | 🐛 11 | 🌐 Python | 📅 2024-05-09]
+* Deepgaze: A computer vision library for human-computer interaction based on CNNs \[[Web](https://github.com/mpatacchiola/deepgaze) ⭐ 1,878 | 🐛 11 | 🌐 Python | 📅 2024-05-09]
 * Tensorflow: An open source software library for numerical computation using data flow graph by Google \[[Web](https://www.tensorflow.org/)]
 * Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind \[[Web](http://torch.ch/)]
   * Torch-based deep learning libraries: \[[torchnet](https://github.com/torchnet/torchnet) ⚠️ Archived],
@@ -455,7 +455,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Source code for the paper "Rich feature hierarchies for accurate object detection and semantic segmentation," CVPR, 2014. [\[Web\]](https://github.com/rbgirshick/rcnn) ⭐ 2,417 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
   * Source code for the paper "Fully Convolutional Networks for Semantic Segmentation," CVPR, 2015. [\[Web\]](https://github.com/longjon/caffe/tree/future) ⭐ 81 | 🐛 0 | 🌐 C++ | 📅 2017-09-06
 * Super-Resolution
-  * Image Super-Resolution for Anime-Style-Art [\[Web\]](https://github.com/nagadomi/waifu2x) ⭐ 28,216 | 🐛 154 | 🌐 Lua | 📅 2023-05-04
+  * Image Super-Resolution for Anime-Style-Art [\[Web\]](https://github.com/nagadomi/waifu2x) ⭐ 28,217 | 🐛 154 | 🌐 Lua | 📅 2023-05-04
 * Edge Detection
   * Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015. [\[Web\]](https://github.com/s9xie/hed) ⭐ 1,924 | 🐛 75 | 🌐 C++ | 📅 2024-04-07
   * Source code for the paper "DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection," CVPR, 2015. [\[Web\]](https://github.com/shenwei1231/DeepContour) ⭐ 95 | 🐛 11 | 🌐 MATLAB | 📅 2022-03-19
@@ -475,4 +475,4 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

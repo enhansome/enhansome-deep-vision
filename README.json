@@ -231,7 +231,7 @@
             "last_commit": "2024-05-09T20:37:09Z",
             "owner": "mpatacchiola",
             "repo": "deepgaze",
-            "stars": 1879
+            "stars": 1878
           }
         },
         {
@@ -375,7 +375,7 @@
                 "last_commit": "2023-05-04T00:50:48Z",
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28216
+                "stars": 28217
               }
             }
           ]
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:42:51.985Z",
+    "last_updated": "2026-08-17T15:47:24.034Z",
     "original_repository": "kjw0612/awesome-deep-vision",
     "original_repository_sha": "9ebfacb00edcab273fd1d7049eaa7eccc69a29cd",
     "enhanced_repository": "enhansome/enhansome-deep-vision",
