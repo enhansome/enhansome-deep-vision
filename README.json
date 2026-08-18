@@ -24,7 +24,7 @@
             "last_commit": "2024-05-03T13:53:58Z",
             "owner": "pjreddie",
             "repo": "darknet",
-            "stars": 26489
+            "stars": 26491
           }
         },
         {
@@ -375,7 +375,7 @@
                 "last_commit": "2023-05-04T00:50:48Z",
                 "owner": "nagadomi",
                 "repo": "waifu2x",
-                "stars": 28217
+                "stars": 28216
               }
             }
           ]
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:47:24.034Z",
+    "last_updated": "2026-08-18T15:54:24.505Z",
     "original_repository": "kjw0612/awesome-deep-vision",
     "original_repository_sha": "9ebfacb00edcab273fd1d7049eaa7eccc69a29cd",
     "enhanced_repository": "enhansome/enhansome-deep-vision",
