@@ -17,7 +17,7 @@
                 "last_commit": "2024-05-03T13:53:58Z",
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26491
+                "stars": 26492
               }
             },
             {
@@ -207,7 +207,7 @@
                     "last_commit": "2020-08-05T01:05:44Z",
                     "owner": "junyanz",
                     "repo": "iGAN",
-                    "stars": 4003
+                    "stars": 4005
                   }
                 }
               ]
@@ -279,7 +279,7 @@
                     "last_commit": "2019-02-19T12:41:38Z",
                     "owner": "mila-iqia",
                     "repo": "blocks",
-                    "stars": 1151
+                    "stars": 1152
                   }
                 }
               ]
@@ -308,7 +308,7 @@
                     "last_commit": "2020-05-25T03:31:19Z",
                     "owner": "goodfeli",
                     "repo": "adversarial",
-                    "stars": 4076
+                    "stars": 4077
                   }
                 }
               ]
@@ -389,7 +389,7 @@
                     "last_commit": "2023-05-04T00:50:48Z",
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28217
+                    "stars": 28215
                   }
                 }
               ]
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:54:03.675Z",
+    "last_updated": "2026-08-20T15:55:56.219Z",
     "original_repository": "kjw0612/awesome-deep-vision",
     "original_repository_id": 35812923,
     "original_repository_sha": "9ebfacb00edcab273fd1d7049eaa7eccc69a29cd",
