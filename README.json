@@ -169,6 +169,57 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Holistically-Nested Edge Detection [Paper]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43477752,
+                "language": "C++",
+                "last_commit": "2024-04-07T16:13:16Z",
+                "owner": "s9xie",
+                "repo": "hed",
+                "stars": 1925
+              }
+            }
+          ],
+          "description": "(from Gedas Bertasius, Jianbo Shi, Lorenzo Torresani, DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, CVPR, 2015.)",
+          "node_type": "group",
+          "title": "Edge Detection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "SEC: Seed, Expand and Constrain",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Alexander Kolesnikov, Christoph Lampert, Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation, ECCV, 2016. [Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 63070401,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2018-01-23T21:11:58Z",
+                    "owner": "akolesnikoff",
+                    "repo": "SEC",
+                    "stars": 247
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "(from Jifeng Dai, Kaiming He, Jian Sun, BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation, arXiv:1503.01640.)",
+          "node_type": "group",
+          "title": "Semantic Segmentation"
+        },
+        {
+          "children": [
+            {
               "node_type": "group",
               "title": "Convolutional / Recurrent Networks",
               "description": null,
@@ -216,6 +267,28 @@
           "description": null,
           "node_type": "group",
           "title": "Image Generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Artistic Style [Paper]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41717707,
+                "language": "Lua",
+                "last_commit": "2018-02-23T01:21:20Z",
+                "owner": "jcjohnson",
+                "repo": "neural-style",
+                "stars": 18285
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Topics"
         }
       ],
       "title": "Papers"
@@ -389,7 +462,7 @@
                     "last_commit": "2023-05-04T00:50:48Z",
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28213
+                    "stars": 28212
                   }
                 }
               ]
@@ -441,7 +514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:43:43.698Z",
+    "last_updated": "2026-08-24T13:52:42.072Z",
     "original_repository": "kjw0612/awesome-deep-vision",
     "original_repository_id": 35812923,
     "original_repository_sha": "9ebfacb00edcab273fd1d7049eaa7eccc69a29cd",
