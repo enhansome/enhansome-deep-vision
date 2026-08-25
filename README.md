@@ -1,6 +1,6 @@
 # Awesome Deep Vision with stars
 
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,672 | 🐛 85 | 📅 2026-07-13 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,517 | 🐛 92 | 📅 2024-05-17.
+A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,669 | 🐛 85 | 📅 2026-07-13 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,516 | 🐛 92 | 📅 2024-05-17.
 
 Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
 
@@ -448,11 +448,11 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ### Applications
 
 * Adversarial Training
-  * Code and hyperparameters for the paper "Generative Adversarial Networks" [\[Web\]](https://github.com/goodfeli/adversarial) ⭐ 4,077 | 🐛 7 | 🌐 Python | 📅 2020-05-25
+  * Code and hyperparameters for the paper "Generative Adversarial Networks" [\[Web\]](https://github.com/goodfeli/adversarial) ⭐ 4,078 | 🐛 7 | 🌐 Python | 📅 2020-05-25
 * Understanding and Visualizing
   * Source code for "Understanding Deep Image Representations by Inverting Them," CVPR, 2015. [\[Web\]](https://github.com/aravindhm/deep-goggle) ⭐ 168 | 🐛 3 | 🌐 Matlab | 📅 2017-09-29
 * Semantic Segmentation
-  * Source code for the paper "Rich feature hierarchies for accurate object detection and semantic segmentation," CVPR, 2014. [\[Web\]](https://github.com/rbgirshick/rcnn) ⭐ 2,417 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
+  * Source code for the paper "Rich feature hierarchies for accurate object detection and semantic segmentation," CVPR, 2014. [\[Web\]](https://github.com/rbgirshick/rcnn) ⭐ 2,416 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
   * Source code for the paper "Fully Convolutional Networks for Semantic Segmentation," CVPR, 2015. [\[Web\]](https://github.com/longjon/caffe/tree/future) ⭐ 81 | 🐛 0 | 🌐 C++ | 📅 2017-09-06
 * Super-Resolution
   * Image Super-Resolution for Anime-Style-Art [\[Web\]](https://github.com/nagadomi/waifu2x) ⭐ 28,211 | 🐛 154 | 🌐 Lua | 📅 2023-05-04

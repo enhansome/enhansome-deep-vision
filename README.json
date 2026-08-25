@@ -381,7 +381,7 @@
                     "last_commit": "2020-05-25T03:31:19Z",
                     "owner": "goodfeli",
                     "repo": "adversarial",
-                    "stars": 4077
+                    "stars": 4078
                   }
                 }
               ]
@@ -425,7 +425,7 @@
                     "last_commit": "2017-04-03T16:16:14Z",
                     "owner": "rbgirshick",
                     "repo": "rcnn",
-                    "stars": 2417
+                    "stars": 2416
                   }
                 },
                 {
@@ -514,7 +514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:45:01.295Z",
+    "last_updated": "2026-08-25T16:06:13.640Z",
     "original_repository": "kjw0612/awesome-deep-vision",
     "original_repository_id": 35812923,
     "original_repository_sha": "9ebfacb00edcab273fd1d7049eaa7eccc69a29cd",
