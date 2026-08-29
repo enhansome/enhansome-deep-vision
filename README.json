@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convolutional Neural Networks",
+                "homepage": "http://pjreddie.com/darknet/",
                 "id": 18666758,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-03T13:53:58Z",
+                "open_issues": 1976,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26494
+                "stars": 26494,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
             },
@@ -28,12 +33,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe: a fast open framework for deep learning.",
+                "homepage": "http://caffe.berkeleyvision.org/",
                 "id": 33213787,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-21T17:17:09Z",
+                "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4808
+                "stars": 4808,
+                "topics": [
+                  "deep-learning",
+                  "object-detection",
+                  "real-time",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
             },
@@ -44,12 +59,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R-FCN: Object Detection via Region-based Fully Convolutional Networks",
+                "homepage": null,
                 "id": 61355800,
                 "language": "Matlab",
+                "license": "NOASSERTION",
                 "last_commit": "2017-05-05T15:50:59Z",
+                "open_issues": 30,
                 "owner": "daijifeng001",
                 "repo": "R-FCN",
-                "stars": 1248
+                "stars": 1248,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
             },
@@ -60,12 +80,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Demo code for PVANet",
+                "homepage": "https://arxiv.org/abs/1611.08588",
                 "id": 67003903,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-28T06:38:10Z",
+                "open_issues": 63,
                 "owner": "sanghoon",
                 "repo": "pva-faster-rcnn",
-                "stars": 649
+                "stars": 649,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
             }
@@ -83,12 +108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning Multi-Domain Convolutional Neural Networks for Visual Tracking",
+                "homepage": null,
                 "id": 49697841,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-11-01T14:08:27Z",
+                "open_issues": 11,
                 "owner": "hyseob",
                 "repo": "MDNet",
-                "stars": 474
+                "stars": 474,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
             },
@@ -99,12 +129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hierarchical Convolutional Features for Visual Tracking (ICCV 2015)",
+                "homepage": null,
                 "id": 42744881,
                 "language": "Matlab",
+                "license": "MIT",
                 "last_commit": "2018-12-06T00:58:53Z",
+                "open_issues": 2,
                 "owner": "jbhuang0604",
                 "repo": "CF2",
-                "stars": 201
+                "stars": 201,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
             },
@@ -115,12 +150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 46663319,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2017-04-05T07:37:01Z",
+                "open_issues": 0,
                 "owner": "scott89",
                 "repo": "FCNT",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
             }
@@ -140,12 +180,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatic colorization using deep neural networks. \"Colorful Image Colorization.\" In ECCV, 2016.",
+                    "homepage": "http://richzhang.github.io/colorization/",
                     "id": 54758833,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2023-11-27T04:46:28Z",
+                    "open_issues": 59,
                     "owner": "richzhang",
                     "repo": "colorization",
-                    "stars": 3462
+                    "stars": 3462,
+                    "topics": [
+                      "automatic-colorization",
+                      "caffe",
+                      "colorization",
+                      "computer-vision",
+                      "deep-learning",
+                      "deep-learning-algorithms"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
                 },
@@ -156,12 +208,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2016] Unsupervised Feature Learning by Image Inpainting using GANs",
+                    "homepage": "https://www.cs.cmu.edu/~dpathak/context_encoder/",
                     "id": 56881233,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-07-19T21:37:48Z",
+                    "open_issues": 117,
                     "owner": "pathak22",
                     "repo": "context-encoder",
-                    "stars": 907
+                    "stars": 907,
+                    "topics": [
+                      "computer-graphics",
+                      "computer-vision",
+                      "context-encoders",
+                      "dcgan",
+                      "deep-learning",
+                      "gan",
+                      "generative-adversarial-network",
+                      "image-inpainting",
+                      "machine-learning",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
                 }
@@ -184,12 +252,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for Holistically-Nested Edge Detection",
+                "homepage": null,
                 "id": 43477752,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-07T16:13:16Z",
+                "open_issues": 75,
                 "owner": "s9xie",
                 "repo": "hed",
-                "stars": 1925
+                "stars": 1925,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
             }
@@ -212,12 +285,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Seed, Expand, Constrain: Three Principles for Weakly-Supervised Image Segmentation",
+                    "homepage": null,
                     "id": 63070401,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2018-01-23T21:11:58Z",
+                    "open_issues": 11,
                     "owner": "akolesnikoff",
                     "repo": "SEC",
-                    "stars": 247
+                    "stars": 247,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
                 }
@@ -242,12 +320,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Theano reimplementation of pixelCNN architecture",
+                    "homepage": null,
                     "id": 63179872,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2016-07-23T01:53:20Z",
+                    "open_issues": 0,
                     "owner": "kundan2510",
                     "repo": "pixelCNN",
-                    "stars": 166
+                    "stars": 166,
+                    "topics": [
+                      "deep-learning",
+                      "image-generation",
+                      "pixelcnn",
+                      "theano"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
                 }
@@ -265,12 +353,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Interactive Image Generation via Generative Adversarial Networks",
+                    "homepage": null,
                     "id": 68788179,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-08-05T01:05:44Z",
+                    "open_issues": 14,
                     "owner": "junyanz",
                     "repo": "iGAN",
-                    "stars": 4006
+                    "stars": 4006,
+                    "topics": [
+                      "computer-graphics",
+                      "computer-vision",
+                      "dcgan",
+                      "deep-learning",
+                      "gan",
+                      "generative-adversarial-network",
+                      "image-manipulation",
+                      "pix2pix"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
                 }
@@ -290,12 +392,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Torch implementation of neural style algorithm",
+                "homepage": null,
                 "id": 41717707,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2018-02-23T01:21:20Z",
+                "open_issues": 316,
                 "owner": "jcjohnson",
                 "repo": "neural-style",
-                "stars": 18283
+                "stars": 18283,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
             }
@@ -319,12 +426,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Computer Vision library for human-computer interaction. It implements Head Pose and Gaze Direction Estimation Using Convolutional Neural Networks, Skin Detection through Backprojection, Motion Detection and Tracking, Saliency Map.",
+                "homepage": null,
                 "id": 53414649,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-09T20:37:09Z",
+                "open_issues": 11,
                 "owner": "mpatacchiola",
                 "repo": "deepgaze",
-                "stars": 1880
+                "stars": 1880,
+                "topics": [
+                  "cnn",
+                  "color-detection",
+                  "convolutional-neural-networks",
+                  "face-detection",
+                  "head-pose-estimation",
+                  "histogram-comparison",
+                  "histogram-intersection",
+                  "human-computer-interaction",
+                  "motion-detection",
+                  "motion-tracking",
+                  "particle-filter",
+                  "saliency-map",
+                  "skin-detection"
+                ]
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
             },
@@ -340,12 +466,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Torch on steroids",
+                    "homepage": null,
                     "id": 61539428,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-03-27T22:21:16Z",
+                    "open_issues": 3,
                     "owner": "facebookarchive",
                     "repo": "torchnet",
-                    "stars": 988
+                    "stars": 988,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
                 }
@@ -363,12 +494,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Theano framework for building and training neural networks",
+                    "homepage": null,
                     "id": 24829371,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-02-19T12:41:38Z",
+                    "open_issues": 192,
                     "owner": "mila-iqia",
                     "repo": "blocks",
-                    "stars": 1152
+                    "stars": 1152,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
                 }
@@ -393,12 +529,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and hyperparameters for the paper \"Generative Adversarial Networks\"",
+                    "homepage": null,
                     "id": 20651238,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2020-05-25T03:31:19Z",
+                    "open_issues": 7,
                     "owner": "goodfeli",
                     "repo": "adversarial",
-                    "stars": 4078
+                    "stars": 4078,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
                 }
@@ -416,12 +557,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code for \"Understanding Deep Image Representations by Inverting Them\", CVPR 2015",
+                    "homepage": null,
                     "id": 31660873,
                     "language": "Matlab",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2017-09-29T10:53:09Z",
+                    "open_issues": 3,
                     "owner": "aravindhm",
                     "repo": "deep-goggle",
-                    "stars": 168
+                    "stars": 168,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
                 }
@@ -439,12 +585,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "R-CNN: Regions with Convolutional Neural Network Features",
+                    "homepage": null,
                     "id": 17728623,
                     "language": "Matlab",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2017-04-03T16:16:14Z",
+                    "open_issues": 54,
                     "owner": "rbgirshick",
                     "repo": "rcnn",
-                    "stars": 2416
+                    "stars": 2416,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
                 },
@@ -455,12 +606,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Caffe",
+                    "homepage": "http://daggerfs.com/caffe/",
                     "id": 14972738,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2017-09-06T23:47:34Z",
+                    "open_issues": 0,
                     "owner": "longjon",
                     "repo": "caffe",
-                    "stars": 81
+                    "stars": 81,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
                 }
@@ -478,12 +634,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Image Super-Resolution for Anime-Style Art",
+                    "homepage": "http://waifu2x.udp.jp/ ",
                     "id": 35756351,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2023-05-04T00:50:48Z",
+                    "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28212
+                    "stars": 28212,
+                    "topics": [
+                      "super-resolution",
+                      "torch",
+                      "waifu2x"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
                 }
@@ -501,12 +666,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "code for Holistically-Nested Edge Detection",
+                    "homepage": null,
                     "id": 43477752,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-04-07T16:13:16Z",
+                    "open_issues": 75,
                     "owner": "s9xie",
                     "repo": "hed",
-                    "stars": 1925
+                    "stars": 1925,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
                 },
@@ -517,12 +687,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The testing code for deep contour detector",
+                    "homepage": null,
                     "id": 34653257,
                     "language": "MATLAB",
+                    "license": null,
                     "last_commit": "2022-03-19T07:25:18Z",
+                    "open_issues": 11,
                     "owner": "shenwei1231",
                     "repo": "DeepContour",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
                 }
@@ -538,15 +713,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:02:36.357Z",
+    "last_updated": "2026-08-29T04:12:54.535Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of deep learning resources for computer vision ",
+      "homepage": null,
       "id": 35812923,
       "language": null,
+      "license": null,
       "last_commit": "2023-08-15T10:52:15Z",
+      "open_issues": 47,
       "owner": "kjw0612",
       "repo": "awesome-deep-vision",
-      "stars": 11186
+      "stars": 11186,
+      "topics": []
     },
     "original_repository_sha": "9ebfacb00edcab273fd1d7049eaa7eccc69a29cd",
     "enhanced_repository": "enhansome/enhansome-deep-vision",
