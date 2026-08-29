@@ -17,8 +17,9 @@
                 "last_commit": "2024-05-03T13:53:58Z",
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26493
-              }
+                "stars": 26494
+              },
+              "first_seen": "2026-08-29T00:02:36.357Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "weiliu89",
                 "repo": "caffe",
                 "stars": 4808
-              }
+              },
+              "first_seen": "2026-08-29T00:02:36.357Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "daijifeng001",
                 "repo": "R-FCN",
                 "stars": 1248
-              }
+              },
+              "first_seen": "2026-08-29T00:02:36.357Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "sanghoon",
                 "repo": "pva-faster-rcnn",
                 "stars": 649
-              }
+              },
+              "first_seen": "2026-08-29T00:02:36.357Z"
             }
           ],
           "description": "(from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)",
@@ -85,7 +89,8 @@
                 "owner": "hyseob",
                 "repo": "MDNet",
                 "stars": 474
-              }
+              },
+              "first_seen": "2026-08-29T00:02:36.357Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "jbhuang0604",
                 "repo": "CF2",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-29T00:02:36.357Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "scott89",
                 "repo": "FCNT",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-29T00:02:36.357Z"
             }
           ],
           "description": null,
@@ -138,8 +145,9 @@
                     "last_commit": "2023-11-27T04:46:28Z",
                     "owner": "richzhang",
                     "repo": "colorization",
-                    "stars": 3461
-                  }
+                    "stars": 3462
+                  },
+                  "first_seen": "2026-08-29T00:02:36.357Z"
                 },
                 {
                   "node_type": "item",
@@ -154,7 +162,8 @@
                     "owner": "pathak22",
                     "repo": "context-encoder",
                     "stars": 907
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:36.357Z"
                 }
               ],
               "description": null,
@@ -181,7 +190,8 @@
                 "owner": "s9xie",
                 "repo": "hed",
                 "stars": 1925
-              }
+              },
+              "first_seen": "2026-08-29T00:02:36.357Z"
             }
           ],
           "description": "(from Gedas Bertasius, Jianbo Shi, Lorenzo Torresani, DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, CVPR, 2015.)",
@@ -208,7 +218,8 @@
                     "owner": "akolesnikoff",
                     "repo": "SEC",
                     "stars": 247
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:36.357Z"
                 }
               ]
             }
@@ -237,7 +248,8 @@
                     "owner": "kundan2510",
                     "repo": "pixelCNN",
                     "stars": 166
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:36.357Z"
                 }
               ]
             },
@@ -258,8 +270,9 @@
                     "last_commit": "2020-08-05T01:05:44Z",
                     "owner": "junyanz",
                     "repo": "iGAN",
-                    "stars": 4005
-                  }
+                    "stars": 4006
+                  },
+                  "first_seen": "2026-08-29T00:02:36.357Z"
                 }
               ]
             }
@@ -283,7 +296,8 @@
                 "owner": "jcjohnson",
                 "repo": "neural-style",
                 "stars": 18283
-              }
+              },
+              "first_seen": "2026-08-29T00:02:36.357Z"
             }
           ],
           "description": null,
@@ -311,7 +325,8 @@
                 "owner": "mpatacchiola",
                 "repo": "deepgaze",
                 "stars": 1880
-              }
+              },
+              "first_seen": "2026-08-29T00:02:36.357Z"
             },
             {
               "node_type": "group",
@@ -331,7 +346,8 @@
                     "owner": "facebookarchive",
                     "repo": "torchnet",
                     "stars": 988
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:36.357Z"
                 }
               ]
             },
@@ -353,7 +369,8 @@
                     "owner": "mila-iqia",
                     "repo": "blocks",
                     "stars": 1152
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:36.357Z"
                 }
               ]
             }
@@ -382,7 +399,8 @@
                     "owner": "goodfeli",
                     "repo": "adversarial",
                     "stars": 4078
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:36.357Z"
                 }
               ]
             },
@@ -404,7 +422,8 @@
                     "owner": "aravindhm",
                     "repo": "deep-goggle",
                     "stars": 168
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:36.357Z"
                 }
               ]
             },
@@ -426,7 +445,8 @@
                     "owner": "rbgirshick",
                     "repo": "rcnn",
                     "stars": 2416
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:36.357Z"
                 },
                 {
                   "node_type": "item",
@@ -441,7 +461,8 @@
                     "owner": "longjon",
                     "repo": "caffe",
                     "stars": 81
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:36.357Z"
                 }
               ]
             },
@@ -462,8 +483,9 @@
                     "last_commit": "2023-05-04T00:50:48Z",
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28214
-                  }
+                    "stars": 28212
+                  },
+                  "first_seen": "2026-08-29T00:02:36.357Z"
                 }
               ]
             },
@@ -485,7 +507,8 @@
                     "owner": "s9xie",
                     "repo": "hed",
                     "stars": 1925
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:36.357Z"
                 },
                 {
                   "node_type": "item",
@@ -500,7 +523,8 @@
                     "owner": "shenwei1231",
                     "repo": "DeepContour",
                     "stars": 95
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:36.357Z"
                 }
               ]
             }
@@ -514,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:28:08.136Z",
+    "last_updated": "2026-08-29T00:02:36.357Z",
     "original_repository_info": {
       "archived": false,
       "id": 35812923,
