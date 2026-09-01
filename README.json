@@ -21,7 +21,7 @@
                 "open_issues": 1976,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26496,
+                "stars": 26499,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -643,7 +643,7 @@
                     "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28212,
+                    "stars": 28216,
                     "topics": [
                       "super-resolution",
                       "torch",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:53:56.886Z",
+    "last_updated": "2026-09-01T18:40:11.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
