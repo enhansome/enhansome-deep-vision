@@ -189,7 +189,7 @@
                     "open_issues": 59,
                     "owner": "richzhang",
                     "repo": "colorization",
-                    "stars": 3462,
+                    "stars": 3463,
                     "topics": [
                       "automatic-colorization",
                       "caffe",
@@ -401,7 +401,7 @@
                 "open_issues": 316,
                 "owner": "jcjohnson",
                 "repo": "neural-style",
-                "stars": 18284,
+                "stars": 18282,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -538,7 +538,7 @@
                     "open_issues": 7,
                     "owner": "goodfeli",
                     "repo": "adversarial",
-                    "stars": 4079,
+                    "stars": 4081,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:49:54.712Z",
+    "last_updated": "2026-09-03T18:48:01.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
