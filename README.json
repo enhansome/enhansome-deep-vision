@@ -643,7 +643,7 @@
                     "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28218,
+                    "stars": 28215,
                     "topics": [
                       "super-resolution",
                       "torch",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:30:48.693Z",
+    "last_updated": "2026-09-05T17:25:35.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
@@ -725,7 +725,7 @@
       "open_issues": 47,
       "owner": "kjw0612",
       "repo": "awesome-deep-vision",
-      "stars": 11188,
+      "stars": 11186,
       "topics": []
     },
     "original_repository_sha": "9ebfacb00edcab273fd1d7049eaa7eccc69a29cd",
