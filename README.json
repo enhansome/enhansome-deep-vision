@@ -21,7 +21,7 @@
                 "open_issues": 1976,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26499,
+                "stars": 26498,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -401,7 +401,7 @@
                 "open_issues": 316,
                 "owner": "jcjohnson",
                 "repo": "neural-style",
-                "stars": 18282,
+                "stars": 18281,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -435,7 +435,7 @@
                 "open_issues": 11,
                 "owner": "mpatacchiola",
                 "repo": "deepgaze",
-                "stars": 1880,
+                "stars": 1881,
                 "topics": [
                   "cnn",
                   "color-detection",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:37:41.259Z",
+    "last_updated": "2026-09-07T19:17:01.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
@@ -725,7 +725,7 @@
       "open_issues": 47,
       "owner": "kjw0612",
       "repo": "awesome-deep-vision",
-      "stars": 11186,
+      "stars": 11185,
       "topics": []
     },
     "original_repository_sha": "9ebfacb00edcab273fd1d7049eaa7eccc69a29cd",
