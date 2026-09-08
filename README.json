@@ -21,7 +21,7 @@
                 "open_issues": 1976,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26498,
+                "stars": 26497,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -401,7 +401,7 @@
                 "open_issues": 316,
                 "owner": "jcjohnson",
                 "repo": "neural-style",
-                "stars": 18281,
+                "stars": 18280,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -435,7 +435,7 @@
                 "open_issues": 11,
                 "owner": "mpatacchiola",
                 "repo": "deepgaze",
-                "stars": 1881,
+                "stars": 1882,
                 "topics": [
                   "cnn",
                   "color-detection",
@@ -594,7 +594,7 @@
                     "open_issues": 54,
                     "owner": "rbgirshick",
                     "repo": "rcnn",
-                    "stars": 2416,
+                    "stars": 2415,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
@@ -643,7 +643,7 @@
                     "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28215,
+                    "stars": 28218,
                     "topics": [
                       "super-resolution",
                       "torch",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:17:01.887Z",
+    "last_updated": "2026-09-08T18:50:30.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
@@ -725,7 +725,7 @@
       "open_issues": 47,
       "owner": "kjw0612",
       "repo": "awesome-deep-vision",
-      "stars": 11185,
+      "stars": 11184,
       "topics": []
     },
     "original_repository_sha": "9ebfacb00edcab273fd1d7049eaa7eccc69a29cd",
