@@ -401,7 +401,7 @@
                 "open_issues": 316,
                 "owner": "jcjohnson",
                 "repo": "neural-style",
-                "stars": 18280,
+                "stars": 18279,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -594,7 +594,7 @@
                     "open_issues": 54,
                     "owner": "rbgirshick",
                     "repo": "rcnn",
-                    "stars": 2415,
+                    "stars": 2414,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
@@ -643,7 +643,7 @@
                     "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28224,
+                    "stars": 28225,
                     "topics": [
                       "super-resolution",
                       "torch",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:45:48.891Z",
+    "last_updated": "2026-09-13T18:15:33.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",

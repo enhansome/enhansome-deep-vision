@@ -1,6 +1,6 @@
 # Awesome Deep Vision with stars
 
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,690 | 🐛 90 | 📅 2026-07-13 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,552 | 🐛 92 | 📅 2024-05-17.
+A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,696 | 🐛 90 | 📅 2026-07-13 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,556 | 🐛 92 | 📅 2024-05-17.
 
 Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
 
@@ -383,7 +383,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ### Other Topics
 
-* Artistic Style [\[Paper\]](http://arxiv.org/abs/1508.06576) [\[Code\]](https://github.com/jcjohnson/neural-style) ⭐ 18,280 | 🐛 316 | 🌐 Lua | 📅 2018-02-23
+* Artistic Style [\[Paper\]](http://arxiv.org/abs/1508.06576) [\[Code\]](https://github.com/jcjohnson/neural-style) ⭐ 18,279 | 🐛 316 | 🌐 Lua | 📅 2018-02-23
   * Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, A Neural Algorithm of Artistic Style.
 * Visual Analogy \[[Paper](https://web.eecs.umich.edu/~honglak/nips2015-analogy.pdf)]
   * Scott Reed, Yi Zhang, Yuting Zhang, Honglak Lee, Deep Visual Analogy Making, NIPS, 2015
@@ -452,10 +452,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Understanding and Visualizing
   * Source code for "Understanding Deep Image Representations by Inverting Them," CVPR, 2015. [\[Web\]](https://github.com/aravindhm/deep-goggle) ⭐ 168 | 🐛 3 | 🌐 Matlab | 📅 2017-09-29
 * Semantic Segmentation
-  * Source code for the paper "Rich feature hierarchies for accurate object detection and semantic segmentation," CVPR, 2014. [\[Web\]](https://github.com/rbgirshick/rcnn) ⭐ 2,415 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
+  * Source code for the paper "Rich feature hierarchies for accurate object detection and semantic segmentation," CVPR, 2014. [\[Web\]](https://github.com/rbgirshick/rcnn) ⭐ 2,414 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
   * Source code for the paper "Fully Convolutional Networks for Semantic Segmentation," CVPR, 2015. [\[Web\]](https://github.com/longjon/caffe/tree/future) ⭐ 81 | 🐛 0 | 🌐 C++ | 📅 2017-09-06
 * Super-Resolution
-  * Image Super-Resolution for Anime-Style-Art [\[Web\]](https://github.com/nagadomi/waifu2x) ⭐ 28,224 | 🐛 154 | 🌐 Lua | 📅 2023-05-04
+  * Image Super-Resolution for Anime-Style-Art [\[Web\]](https://github.com/nagadomi/waifu2x) ⭐ 28,225 | 🐛 154 | 🌐 Lua | 📅 2023-05-04
 * Edge Detection
   * Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015. [\[Web\]](https://github.com/s9xie/hed) ⭐ 1,925 | 🐛 75 | 🌐 C++ | 📅 2024-04-07
   * Source code for the paper "DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection," CVPR, 2015. [\[Web\]](https://github.com/shenwei1231/DeepContour) ⭐ 95 | 🐛 11 | 🌐 MATLAB | 📅 2022-03-19
@@ -475,4 +475,4 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
