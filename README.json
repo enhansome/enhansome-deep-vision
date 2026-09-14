@@ -186,7 +186,7 @@
                     "language": "Python",
                     "license": "BSD-2-Clause",
                     "last_commit": "2023-11-27T04:46:28Z",
-                    "open_issues": 59,
+                    "open_issues": 60,
                     "owner": "richzhang",
                     "repo": "colorization",
                     "stars": 3463,
@@ -643,7 +643,7 @@
                     "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28225,
+                    "stars": 28223,
                     "topics": [
                       "super-resolution",
                       "torch",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:15:33.779Z",
+    "last_updated": "2026-09-14T19:53:05.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
