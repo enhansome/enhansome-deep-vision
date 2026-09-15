@@ -1,6 +1,6 @@
 # Awesome Deep Vision with stars
 
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,698 | 🐛 91 | 📅 2026-07-13 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,556 | 🐛 92 | 📅 2024-05-17.
+A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,701 | 🐛 91 | 📅 2026-07-13 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,556 | 🐛 92 | 📅 2024-05-17.
 
 Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
 
@@ -8,7 +8,7 @@ The project is not actively maintained.
 
 ## Contributing
 
-Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15 to add papers.
+Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15 to add papers.
 
 [![Join the chat at https://gitter.im/kjw0612/awesome-deep-vision](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjw0612/awesome-deep-vision?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge\&utm_content=badge)
 
@@ -167,7 +167,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ![edge\_detection](https://cloud.githubusercontent.com/assets/5226447/8452371/93ca6f7e-2025-11e5-90f2-d428fd5ff7ac.PNG)
 (from Gedas Bertasius, Jianbo Shi, Lorenzo Torresani, DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, CVPR, 2015.)
 
-* Holistically-Nested Edge Detection [\[Paper\]](http://arxiv.org/pdf/1504.06375) [\[Code\]](https://github.com/s9xie/hed) ⭐ 1,925 | 🐛 75 | 🌐 C++ | 📅 2024-04-07
+* Holistically-Nested Edge Detection [\[Paper\]](http://arxiv.org/pdf/1504.06375) [\[Code\]](https://github.com/s9xie/hed) ⭐ 1,926 | 🐛 75 | 🌐 C++ | 📅 2024-04-07
   * Saining Xie, Zhuowen Tu, Holistically-Nested Edge Detection, arXiv:1504.06375.
 * DeepEdge [\[Paper\]](http://arxiv.org/pdf/1412.1123)
   * Gedas Bertasius, Jianbo Shi, Lorenzo Torresani, DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, CVPR, 2015.
@@ -369,7 +369,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox, "Learning to Generate Chairs with Convolutional Neural Networks", CVPR, 2015. [\[Paper\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
   * Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra, "DRAW: A Recurrent Neural Network For Image Generation", ICML, 2015. \[[Paper](https://arxiv.org/pdf/1502.04623v2.pdf)]
 * Adversarial Networks
-  * Jun-Yan Zhu, Philipp Krahenbuhl, Eli Shechtman, and Alexei A. Efros, "Generative Visual Manipulation on the Natural Image Manifold", ECCV 2016. \[[Paper](https://arxiv.org/pdf/1609.03552v2.pdf)] \[[Code](https://github.com/junyanz/iGAN) ⭐ 4,007 | 🐛 14 | 🌐 Python | 📅 2020-08-05] \[[Video](https://youtu.be/9c4z6YsBGQ0)]
+  * Jun-Yan Zhu, Philipp Krahenbuhl, Eli Shechtman, and Alexei A. Efros, "Generative Visual Manipulation on the Natural Image Manifold", ECCV 2016. \[[Paper](https://arxiv.org/pdf/1609.03552v2.pdf)] \[[Code](https://github.com/junyanz/iGAN) ⭐ 4,008 | 🐛 14 | 🌐 Python | 📅 2020-08-05] \[[Video](https://youtu.be/9c4z6YsBGQ0)]
   * Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio, Generative Adversarial Networks, NIPS, 2014. [\[Paper\]](http://arxiv.org/abs/1406.2661)
   * Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus, Deep Generative Image Models using a ￼Laplacian Pyramid of Adversarial Networks, NIPS, 2015. [\[Paper\]](http://arxiv.org/abs/1506.05751)
   * Lucas Theis, Aäron van den Oord, Matthias Bethge, "A note on the evaluation of generative models", ICLR 2016. \[[Paper](http://arxiv.org/abs/1511.01844)]
@@ -452,12 +452,12 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Understanding and Visualizing
   * Source code for "Understanding Deep Image Representations by Inverting Them," CVPR, 2015. [\[Web\]](https://github.com/aravindhm/deep-goggle) ⭐ 168 | 🐛 3 | 🌐 Matlab | 📅 2017-09-29
 * Semantic Segmentation
-  * Source code for the paper "Rich feature hierarchies for accurate object detection and semantic segmentation," CVPR, 2014. [\[Web\]](https://github.com/rbgirshick/rcnn) ⭐ 2,414 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
+  * Source code for the paper "Rich feature hierarchies for accurate object detection and semantic segmentation," CVPR, 2014. [\[Web\]](https://github.com/rbgirshick/rcnn) ⭐ 2,414 | 🐛 55 | 🌐 Matlab | 📅 2017-04-03
   * Source code for the paper "Fully Convolutional Networks for Semantic Segmentation," CVPR, 2015. [\[Web\]](https://github.com/longjon/caffe/tree/future) ⭐ 81 | 🐛 0 | 🌐 C++ | 📅 2017-09-06
 * Super-Resolution
-  * Image Super-Resolution for Anime-Style-Art [\[Web\]](https://github.com/nagadomi/waifu2x) ⭐ 28,223 | 🐛 154 | 🌐 Lua | 📅 2023-05-04
+  * Image Super-Resolution for Anime-Style-Art [\[Web\]](https://github.com/nagadomi/waifu2x) ⭐ 28,226 | 🐛 154 | 🌐 Lua | 📅 2023-05-04
 * Edge Detection
-  * Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015. [\[Web\]](https://github.com/s9xie/hed) ⭐ 1,925 | 🐛 75 | 🌐 C++ | 📅 2024-04-07
+  * Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015. [\[Web\]](https://github.com/s9xie/hed) ⭐ 1,926 | 🐛 75 | 🌐 C++ | 📅 2024-04-07
   * Source code for the paper "DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection," CVPR, 2015. [\[Web\]](https://github.com/shenwei1231/DeepContour) ⭐ 95 | 🐛 11 | 🌐 MATLAB | 📅 2022-03-19
 
 ## Tutorials
@@ -475,4 +475,4 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

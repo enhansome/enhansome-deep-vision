@@ -261,7 +261,7 @@
                 "open_issues": 75,
                 "owner": "s9xie",
                 "repo": "hed",
-                "stars": 1925,
+                "stars": 1926,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -362,7 +362,7 @@
                     "open_issues": 14,
                     "owner": "junyanz",
                     "repo": "iGAN",
-                    "stars": 4007,
+                    "stars": 4008,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -591,7 +591,7 @@
                     "language": "Matlab",
                     "license": "BSD-2-Clause",
                     "last_commit": "2017-04-03T16:16:14Z",
-                    "open_issues": 54,
+                    "open_issues": 55,
                     "owner": "rbgirshick",
                     "repo": "rcnn",
                     "stars": 2414,
@@ -643,7 +643,7 @@
                     "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28223,
+                    "stars": 28226,
                     "topics": [
                       "super-resolution",
                       "torch",
@@ -675,7 +675,7 @@
                     "open_issues": 75,
                     "owner": "s9xie",
                     "repo": "hed",
-                    "stars": 1925,
+                    "stars": 1926,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:53:05.090Z",
+    "last_updated": "2026-09-15T19:07:13.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
@@ -725,7 +725,7 @@
       "open_issues": 47,
       "owner": "kjw0612",
       "repo": "awesome-deep-vision",
-      "stars": 11185,
+      "stars": 11186,
       "topics": []
     },
     "original_repository_sha": "9ebfacb00edcab273fd1d7049eaa7eccc69a29cd",
