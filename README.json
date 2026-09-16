@@ -21,7 +21,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26497,
+                "stars": 26499,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:07:13.610Z",
+    "last_updated": "2026-09-16T18:57:39.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
