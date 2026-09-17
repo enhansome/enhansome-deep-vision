@@ -21,7 +21,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26499,
+                "stars": 26501,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -362,7 +362,7 @@
                     "open_issues": 14,
                     "owner": "junyanz",
                     "repo": "iGAN",
-                    "stars": 4008,
+                    "stars": 4009,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:57:39.374Z",
+    "last_updated": "2026-09-17T19:07:37.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",

@@ -1,6 +1,6 @@
 # Awesome Deep Vision with stars
 
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,700 | 🐛 91 | 📅 2026-07-13 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,556 | 🐛 92 | 📅 2024-05-17.
+A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,700 | 🐛 92 | 📅 2026-07-13 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,558 | 🐛 97 | 📅 2024-05-17.
 
 Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
 
@@ -74,7 +74,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ![object\_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
 (from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)
 
-* You Only Look Once: Unified, Real-Time Object Detection [\[Paper\]](http://arxiv.org/abs/1506.02640), [\[Paper Version 2\]](https://arxiv.org/abs/1612.08242), [\[C Code\]](https://github.com/pjreddie/darknet) ⭐ 26,499 | 🐛 1,978 | 🌐 C | 📅 2024-05-03, [\[Tensorflow Code\]](https://github.com/thtrieu/darkflow) ⭐ 6,139 | 🐛 641 | 🌐 Python | 📅 2023-10-23
+* You Only Look Once: Unified, Real-Time Object Detection [\[Paper\]](http://arxiv.org/abs/1506.02640), [\[Paper Version 2\]](https://arxiv.org/abs/1612.08242), [\[C Code\]](https://github.com/pjreddie/darknet) ⭐ 26,501 | 🐛 1,978 | 🌐 C | 📅 2024-05-03, [\[Tensorflow Code\]](https://github.com/thtrieu/darkflow) ⭐ 6,138 | 🐛 641 | 🌐 Python | 📅 2023-10-23
   * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
   * Joseph Redmon, Ali Farhadi (Version 2)
 * SSD [\[Paper\]](https://arxiv.org/pdf/1512.02325v2.pdf) [\[Code\]](https://github.com/weiliu89/caffe/tree/ssd) ⭐ 4,808 | 🐛 676 | 🌐 C++ | 📅 2023-04-21
@@ -369,7 +369,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox, "Learning to Generate Chairs with Convolutional Neural Networks", CVPR, 2015. [\[Paper\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
   * Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra, "DRAW: A Recurrent Neural Network For Image Generation", ICML, 2015. \[[Paper](https://arxiv.org/pdf/1502.04623v2.pdf)]
 * Adversarial Networks
-  * Jun-Yan Zhu, Philipp Krahenbuhl, Eli Shechtman, and Alexei A. Efros, "Generative Visual Manipulation on the Natural Image Manifold", ECCV 2016. \[[Paper](https://arxiv.org/pdf/1609.03552v2.pdf)] \[[Code](https://github.com/junyanz/iGAN) ⭐ 4,008 | 🐛 14 | 🌐 Python | 📅 2020-08-05] \[[Video](https://youtu.be/9c4z6YsBGQ0)]
+  * Jun-Yan Zhu, Philipp Krahenbuhl, Eli Shechtman, and Alexei A. Efros, "Generative Visual Manipulation on the Natural Image Manifold", ECCV 2016. \[[Paper](https://arxiv.org/pdf/1609.03552v2.pdf)] \[[Code](https://github.com/junyanz/iGAN) ⭐ 4,009 | 🐛 14 | 🌐 Python | 📅 2020-08-05] \[[Video](https://youtu.be/9c4z6YsBGQ0)]
   * Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio, Generative Adversarial Networks, NIPS, 2014. [\[Paper\]](http://arxiv.org/abs/1406.2661)
   * Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus, Deep Generative Image Models using a ￼Laplacian Pyramid of Adversarial Networks, NIPS, 2015. [\[Paper\]](http://arxiv.org/abs/1506.05751)
   * Lucas Theis, Aäron van den Oord, Matthias Bethge, "A note on the evaluation of generative models", ICLR 2016. \[[Paper](http://arxiv.org/abs/1511.01844)]
@@ -475,4 +475,4 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
