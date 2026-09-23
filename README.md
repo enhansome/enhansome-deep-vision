@@ -1,6 +1,6 @@
 # Awesome Deep Vision with stars
 
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,704 | 🐛 92 | 📅 2026-07-13 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,570 | 🐛 99 | 📅 2024-05-17.
+A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,705 | 🐛 92 | 📅 2026-07-13 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,570 | 🐛 99 | 📅 2024-05-17.
 
 Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
 
@@ -8,7 +8,7 @@ The project is not actively maintained.
 
 ## Contributing
 
-Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) ⭐ 11,188 | 🐛 48 | 📅 2023-08-15 to add papers.
+Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) ⭐ 11,187 | 🐛 48 | 📅 2023-08-15 to add papers.
 
 [![Join the chat at https://gitter.im/kjw0612/awesome-deep-vision](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjw0612/awesome-deep-vision?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge\&utm_content=badge)
 
@@ -383,7 +383,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ### Other Topics
 
-* Artistic Style [\[Paper\]](http://arxiv.org/abs/1508.06576) [\[Code\]](https://github.com/jcjohnson/neural-style) ⭐ 18,277 | 🐛 316 | 🌐 Lua | 📅 2018-02-23
+* Artistic Style [\[Paper\]](http://arxiv.org/abs/1508.06576) [\[Code\]](https://github.com/jcjohnson/neural-style) ⭐ 18,278 | 🐛 316 | 🌐 Lua | 📅 2018-02-23
   * Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, A Neural Algorithm of Artistic Style.
 * Visual Analogy \[[Paper](https://web.eecs.umich.edu/~honglak/nips2015-analogy.pdf)]
   * Scott Reed, Yi Zhang, Yuting Zhang, Honglak Lee, Deep Visual Analogy Making, NIPS, 2015
@@ -435,7 +435,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ### Framework
 
-* Deepgaze: A computer vision library for human-computer interaction based on CNNs \[[Web](https://github.com/mpatacchiola/deepgaze) ⭐ 1,882 | 🐛 11 | 🌐 Python | 📅 2024-05-09]
+* Deepgaze: A computer vision library for human-computer interaction based on CNNs \[[Web](https://github.com/mpatacchiola/deepgaze) ⭐ 1,884 | 🐛 11 | 🌐 Python | 📅 2024-05-09]
 * Tensorflow: An open source software library for numerical computation using data flow graph by Google \[[Web](https://www.tensorflow.org/)]
 * Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind \[[Web](http://torch.ch/)]
   * Torch-based deep learning libraries: \[[torchnet](https://github.com/torchnet/torchnet) ⚠️ Archived],
@@ -448,7 +448,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ### Applications
 
 * Adversarial Training
-  * Code and hyperparameters for the paper "Generative Adversarial Networks" [\[Web\]](https://github.com/goodfeli/adversarial) ⭐ 4,083 | 🐛 7 | 🌐 Python | 📅 2020-05-25
+  * Code and hyperparameters for the paper "Generative Adversarial Networks" [\[Web\]](https://github.com/goodfeli/adversarial) ⭐ 4,084 | 🐛 7 | 🌐 Python | 📅 2020-05-25
 * Understanding and Visualizing
   * Source code for "Understanding Deep Image Representations by Inverting Them," CVPR, 2015. [\[Web\]](https://github.com/aravindhm/deep-goggle) ⭐ 168 | 🐛 3 | 🌐 Matlab | 📅 2017-09-29
 * Semantic Segmentation
@@ -475,4 +475,4 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
