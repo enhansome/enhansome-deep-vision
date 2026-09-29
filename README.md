@@ -1,6 +1,6 @@
 # Awesome Deep Vision with stars
 
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,716 | 🐛 93 | 📅 2026-09-27 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,575 | 🐛 99 | 📅 2024-05-17.
+A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,718 | 🐛 93 | 📅 2026-09-27 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,574 | 🐛 99 | 📅 2024-05-17.
 
 Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
 
@@ -144,7 +144,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 #### Other Applications
 
-* Colorful Image Colorization Richard Zhang, Phillip Isola, Alexei A. Efros, ECCV, 2016 [\[Paper\]](http://arxiv.org/pdf/1603.08511.pdf), [\[Code\]](https://github.com/richzhang/colorization) ⭐ 3,464 | 🐛 60 | 🌐 Python | 📅 2023-11-27
+* Colorful Image Colorization Richard Zhang, Phillip Isola, Alexei A. Efros, ECCV, 2016 [\[Paper\]](http://arxiv.org/pdf/1603.08511.pdf), [\[Code\]](https://github.com/richzhang/colorization) ⭐ 3,465 | 🐛 60 | 🌐 Python | 📅 2023-11-27
 * Feature Learning by Inpainting[\[Paper\]](https://arxiv.org/pdf/1604.07379v1.pdf)[\[Code\]](https://github.com/pathak22/context-encoder) ⭐ 907 | 🐛 117 | 🌐 Lua | 📅 2020-07-19
   * Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei A. Efros, Context Encoders: Feature Learning by Inpainting, CVPR, 2016
 * Optical Flow (FlowNet) [\[Paper\]](http://arxiv.org/pdf/1504.06852)
@@ -369,7 +369,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox, "Learning to Generate Chairs with Convolutional Neural Networks", CVPR, 2015. [\[Paper\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
   * Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra, "DRAW: A Recurrent Neural Network For Image Generation", ICML, 2015. \[[Paper](https://arxiv.org/pdf/1502.04623v2.pdf)]
 * Adversarial Networks
-  * Jun-Yan Zhu, Philipp Krahenbuhl, Eli Shechtman, and Alexei A. Efros, "Generative Visual Manipulation on the Natural Image Manifold", ECCV 2016. \[[Paper](https://arxiv.org/pdf/1609.03552v2.pdf)] \[[Code](https://github.com/junyanz/iGAN) ⭐ 4,010 | 🐛 14 | 🌐 Python | 📅 2020-08-05] \[[Video](https://youtu.be/9c4z6YsBGQ0)]
+  * Jun-Yan Zhu, Philipp Krahenbuhl, Eli Shechtman, and Alexei A. Efros, "Generative Visual Manipulation on the Natural Image Manifold", ECCV 2016. \[[Paper](https://arxiv.org/pdf/1609.03552v2.pdf)] \[[Code](https://github.com/junyanz/iGAN) ⭐ 4,011 | 🐛 14 | 🌐 Python | 📅 2020-08-05] \[[Video](https://youtu.be/9c4z6YsBGQ0)]
   * Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio, Generative Adversarial Networks, NIPS, 2014. [\[Paper\]](http://arxiv.org/abs/1406.2661)
   * Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus, Deep Generative Image Models using a ￼Laplacian Pyramid of Adversarial Networks, NIPS, 2015. [\[Paper\]](http://arxiv.org/abs/1506.05751)
   * Lucas Theis, Aäron van den Oord, Matthias Bethge, "A note on the evaluation of generative models", ICLR 2016. \[[Paper](http://arxiv.org/abs/1511.01844)]
@@ -441,21 +441,21 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Torch-based deep learning libraries: \[[torchnet](https://github.com/torchnet/torchnet) ⚠️ Archived],
 * Caffe: Deep learning framework by the BVLC \[[Web](http://caffe.berkeleyvision.org/)]
 * Theano: Mathematical library in Python, maintained by LISA lab \[[Web](http://deeplearning.net/software/theano/)]
-  * Theano-based deep learning libraries: \[[Pylearn2](http://deeplearning.net/software/pylearn2/)], \[[Blocks](https://github.com/mila-udem/blocks) ⭐ 1,151 | 🐛 192 | 🌐 Python | 📅 2019-02-19], \[[Keras](http://keras.io/)], \[[Lasagne](https://github.com/Lasagne/Lasagne) ⭐ 3,858 | 🐛 139 | 🌐 Python | 📅 2022-03-26]
+  * Theano-based deep learning libraries: \[[Pylearn2](http://deeplearning.net/software/pylearn2/)], \[[Blocks](https://github.com/mila-udem/blocks) ⭐ 1,151 | 🐛 192 | 🌐 Python | 📅 2019-02-19], \[[Keras](http://keras.io/)], \[[Lasagne](https://github.com/Lasagne/Lasagne) ⭐ 3,859 | 🐛 139 | 🌐 Python | 📅 2022-03-26]
 * MatConvNet: CNNs for MATLAB \[[Web](http://www.vlfeat.org/matconvnet/)]
 * MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support \[[Web](http://mxnet.io/)]
 
 ### Applications
 
 * Adversarial Training
-  * Code and hyperparameters for the paper "Generative Adversarial Networks" [\[Web\]](https://github.com/goodfeli/adversarial) ⭐ 4,084 | 🐛 7 | 🌐 Python | 📅 2020-05-25
+  * Code and hyperparameters for the paper "Generative Adversarial Networks" [\[Web\]](https://github.com/goodfeli/adversarial) ⭐ 4,085 | 🐛 7 | 🌐 Python | 📅 2020-05-25
 * Understanding and Visualizing
   * Source code for "Understanding Deep Image Representations by Inverting Them," CVPR, 2015. [\[Web\]](https://github.com/aravindhm/deep-goggle) ⭐ 168 | 🐛 3 | 🌐 Matlab | 📅 2017-09-29
 * Semantic Segmentation
   * Source code for the paper "Rich feature hierarchies for accurate object detection and semantic segmentation," CVPR, 2014. [\[Web\]](https://github.com/rbgirshick/rcnn) ⭐ 2,417 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
   * Source code for the paper "Fully Convolutional Networks for Semantic Segmentation," CVPR, 2015. [\[Web\]](https://github.com/longjon/caffe/tree/future) ⭐ 81 | 🐛 0 | 🌐 C++ | 📅 2017-09-06
 * Super-Resolution
-  * Image Super-Resolution for Anime-Style-Art [\[Web\]](https://github.com/nagadomi/waifu2x) ⭐ 28,229 | 🐛 154 | 🌐 Lua | 📅 2023-05-04
+  * Image Super-Resolution for Anime-Style-Art [\[Web\]](https://github.com/nagadomi/waifu2x) ⭐ 28,231 | 🐛 154 | 🌐 Lua | 📅 2023-05-04
 * Edge Detection
   * Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015. [\[Web\]](https://github.com/s9xie/hed) ⭐ 1,928 | 🐛 75 | 🌐 C++ | 📅 2024-04-07
   * Source code for the paper "DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection," CVPR, 2015. [\[Web\]](https://github.com/shenwei1231/DeepContour) ⭐ 95 | 🐛 11 | 🌐 MATLAB | 📅 2022-03-19
@@ -475,4 +475,4 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

@@ -189,7 +189,7 @@
                     "open_issues": 60,
                     "owner": "richzhang",
                     "repo": "colorization",
-                    "stars": 3464,
+                    "stars": 3465,
                     "topics": [
                       "automatic-colorization",
                       "caffe",
@@ -362,7 +362,7 @@
                     "open_issues": 14,
                     "owner": "junyanz",
                     "repo": "iGAN",
-                    "stars": 4010,
+                    "stars": 4011,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -538,7 +538,7 @@
                     "open_issues": 7,
                     "owner": "goodfeli",
                     "repo": "adversarial",
-                    "stars": 4084,
+                    "stars": 4085,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
@@ -643,7 +643,7 @@
                     "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28229,
+                    "stars": 28231,
                     "topics": [
                       "super-resolution",
                       "torch",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:17:55.762Z",
+    "last_updated": "2026-09-29T20:03:48.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
