@@ -1,6 +1,6 @@
 # Awesome Deep Vision with stars
 
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,717 | 🐛 94 | 📅 2026-09-27 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,580 | 🐛 99 | 📅 2024-05-17.
+A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,718 | 🐛 94 | 📅 2026-09-27 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,586 | 🐛 99 | 📅 2024-05-17.
 
 Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
 
@@ -8,7 +8,7 @@ The project is not actively maintained.
 
 ## Contributing
 
-Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) ⭐ 11,185 | 🐛 49 | 📅 2023-08-15 to add papers.
+Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) ⭐ 11,186 | 🐛 49 | 📅 2023-08-15 to add papers.
 
 [![Join the chat at https://gitter.im/kjw0612/awesome-deep-vision](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjw0612/awesome-deep-vision?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge\&utm_content=badge)
 
@@ -74,12 +74,12 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ![object\_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
 (from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)
 
-* You Only Look Once: Unified, Real-Time Object Detection [\[Paper\]](http://arxiv.org/abs/1506.02640), [\[Paper Version 2\]](https://arxiv.org/abs/1612.08242), [\[C Code\]](https://github.com/pjreddie/darknet) ⭐ 26,508 | 🐛 1,978 | 🌐 C | 📅 2024-05-03, [\[Tensorflow Code\]](https://github.com/thtrieu/darkflow) ⭐ 6,139 | 🐛 641 | 🌐 Python | 📅 2023-10-23
+* You Only Look Once: Unified, Real-Time Object Detection [\[Paper\]](http://arxiv.org/abs/1506.02640), [\[Paper Version 2\]](https://arxiv.org/abs/1612.08242), [\[C Code\]](https://github.com/pjreddie/darknet) ⭐ 26,510 | 🐛 1,978 | 🌐 C | 📅 2024-05-03, [\[Tensorflow Code\]](https://github.com/thtrieu/darkflow) ⭐ 6,140 | 🐛 641 | 🌐 Python | 📅 2023-10-23
   * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
   * Joseph Redmon, Ali Farhadi (Version 2)
 * SSD [\[Paper\]](https://arxiv.org/pdf/1512.02325v2.pdf) [\[Code\]](https://github.com/weiliu89/caffe/tree/ssd) ⭐ 4,807 | 🐛 676 | 🌐 C++ | 📅 2023-04-21
   * Wei Liu1, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg, SSD: Single Shot MultiBox Detector, arXiv:1512.02325
-* R-FCN [\[Paper\]](https://arxiv.org/abs/1605.06409) [\[Code\]](https://github.com/daijifeng001/R-FCN) ⭐ 1,248 | 🐛 30 | 🌐 Matlab | 📅 2017-05-05
+* R-FCN [\[Paper\]](https://arxiv.org/abs/1605.06409) [\[Code\]](https://github.com/daijifeng001/R-FCN) ⭐ 1,247 | 🐛 30 | 🌐 Matlab | 📅 2017-05-05
   * Jifeng Dai, Yi Li, Kaiming He, Jian Sun, R-FCN: Object Detection via Region-based Fully Convolutional Networks
 * PVANET [\[Paper\]](https://arxiv.org/pdf/1608.08021) [\[Code\]](https://github.com/sanghoon/pva-faster-rcnn) ⚠️ Archived
   * Kye-Hyeon Kim, Sanghoon Hong, Byungseok Roh, Yeongjae Cheon, Minje Park, PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection, arXiv:1608.08021
@@ -383,7 +383,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ### Other Topics
 
-* Artistic Style [\[Paper\]](http://arxiv.org/abs/1508.06576) [\[Code\]](https://github.com/jcjohnson/neural-style) ⭐ 18,275 | 🐛 316 | 🌐 Lua | 📅 2018-02-23
+* Artistic Style [\[Paper\]](http://arxiv.org/abs/1508.06576) [\[Code\]](https://github.com/jcjohnson/neural-style) ⭐ 18,276 | 🐛 316 | 🌐 Lua | 📅 2018-02-23
   * Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, A Neural Algorithm of Artistic Style.
 * Visual Analogy \[[Paper](https://web.eecs.umich.edu/~honglak/nips2015-analogy.pdf)]
   * Scott Reed, Yi Zhang, Yuting Zhang, Honglak Lee, Deep Visual Analogy Making, NIPS, 2015
@@ -448,7 +448,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ### Applications
 
 * Adversarial Training
-  * Code and hyperparameters for the paper "Generative Adversarial Networks" [\[Web\]](https://github.com/goodfeli/adversarial) ⭐ 4,085 | 🐛 7 | 🌐 Python | 📅 2020-05-25
+  * Code and hyperparameters for the paper "Generative Adversarial Networks" [\[Web\]](https://github.com/goodfeli/adversarial) ⭐ 4,086 | 🐛 7 | 🌐 Python | 📅 2020-05-25
 * Understanding and Visualizing
   * Source code for "Understanding Deep Image Representations by Inverting Them," CVPR, 2015. [\[Web\]](https://github.com/aravindhm/deep-goggle) ⭐ 168 | 🐛 3 | 🌐 Matlab | 📅 2017-09-29
 * Semantic Segmentation
@@ -475,4 +475,4 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
