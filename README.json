@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "SSD [Paper]",
-              "description": "[Code]",
+              "description": "weiliu89/caffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -55,7 +55,7 @@
             {
               "node_type": "item",
               "title": "R-FCN [Paper]",
-              "description": "[Code]",
+              "description": "daijifeng001/R-FCN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -76,7 +76,7 @@
             {
               "node_type": "item",
               "title": "PVANET [Paper]",
-              "description": "[Code]",
+              "description": "sanghoon/pva-faster-rcnn",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -125,7 +125,7 @@
             {
               "node_type": "item",
               "title": "Chao Ma, Jia-Bin Huang, Xiaokang Yang and Ming-Hsuan Yang, Hierarchical Convolutional Features for Visual Tracking, ICCV 2015 [Paper",
-              "description": "] [Code]",
+              "description": "jbhuang0604/CF2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -146,7 +146,7 @@
             {
               "node_type": "item",
               "title": "Lijun Wang, Wanli Ouyang, Xiaogang Wang, and Huchuan Lu, Visual Tracking with fully Convolutional Networks, ICCV 2015 [Paper",
-              "description": "] [Code]",
+              "description": "scott89/FCNT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -204,7 +204,7 @@
                 {
                   "node_type": "item",
                   "title": "Feature Learning by Inpainting[Paper]",
-                  "description": "[Code]",
+                  "description": "pathak22/context-encoder",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -248,7 +248,7 @@
             {
               "node_type": "item",
               "title": "Holistically-Nested Edge Detection [Paper]",
-              "description": "[Code]",
+              "description": "s9xie/hed",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -281,7 +281,7 @@
                 {
                   "node_type": "item",
                   "title": "Alexander Kolesnikov, Christoph Lampert, Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation, ECCV, 2016. [Paper]",
-                  "description": "[Code]",
+                  "description": "akolesnikoff/SEC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -316,7 +316,7 @@
                 {
                   "node_type": "item",
                   "title": "Aäron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, Koray Kavukcuoglu. \"Conditional Image Generation with PixelCNN Decoders\"[Paper]",
-                  "description": "[Code]",
+                  "description": "kundan2510/pixelCNN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -388,7 +388,7 @@
             {
               "node_type": "item",
               "title": "Artistic Style [Paper]",
-              "description": "[Code]",
+              "description": "jcjohnson/neural-style",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -422,7 +422,7 @@
             {
               "node_type": "item",
               "title": "Deepgaze: A computer vision library for human-computer interaction based on CNNs [Web",
-              "description": "]",
+              "description": "mpatacchiola/deepgaze",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -462,7 +462,7 @@
                 {
                   "node_type": "item",
                   "title": "Torch-based deep learning libraries: [torchnet",
-                  "description": "],",
+                  "description": "facebookarchive/torchnet",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -525,7 +525,7 @@
                 {
                   "node_type": "item",
                   "title": "Code and hyperparameters for the paper \"Generative Adversarial Networks\" [Web]",
-                  "description": null,
+                  "description": "goodfeli/adversarial",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -553,7 +553,7 @@
                 {
                   "node_type": "item",
                   "title": "Source code for \"Understanding Deep Image Representations by Inverting Them,\" CVPR, 2015. [Web]",
-                  "description": null,
+                  "description": "aravindhm/deep-goggle",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -581,7 +581,7 @@
                 {
                   "node_type": "item",
                   "title": "Source code for the paper \"Rich feature hierarchies for accurate object detection and semantic segmentation,\" CVPR, 2014. [Web]",
-                  "description": null,
+                  "description": "rbgirshick/rcnn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -602,7 +602,7 @@
                 {
                   "node_type": "item",
                   "title": "Source code for the paper \"Fully Convolutional Networks for Semantic Segmentation,\" CVPR, 2015. [Web]",
-                  "description": null,
+                  "description": "longjon/caffe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -630,7 +630,7 @@
                 {
                   "node_type": "item",
                   "title": "Image Super-Resolution for Anime-Style-Art [Web]",
-                  "description": null,
+                  "description": "nagadomi/waifu2x",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -662,7 +662,7 @@
                 {
                   "node_type": "item",
                   "title": "Source code for the paper \"Holistically-Nested Edge Detection\", ICCV 2015. [Web]",
-                  "description": null,
+                  "description": "s9xie/hed",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -683,7 +683,7 @@
                 {
                   "node_type": "item",
                   "title": "Source code for the paper \"DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection,\" CVPR, 2015. [Web]",
-                  "description": null,
+                  "description": "shenwei1231/DeepContour",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:00:09.121Z",
+    "last_updated": "2026-10-03T04:39:26.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",

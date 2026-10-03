@@ -1,6 +1,6 @@
 # Awesome Deep Vision with stars
 
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,720 | 🐛 94 | 📅 2026-09-27 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,586 | 🐛 99 | 📅 2024-05-17.
+A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,722 | 🐛 94 | 📅 2026-09-27 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,586 | 🐛 99 | 📅 2024-05-17.
 
 Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
 
@@ -8,7 +8,7 @@ The project is not actively maintained.
 
 ## Contributing
 
-Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) ⭐ 11,186 | 🐛 49 | 📅 2023-08-15 to add papers.
+Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) to add papers.
 
 [![Join the chat at https://gitter.im/kjw0612/awesome-deep-vision](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjw0612/awesome-deep-vision?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge\&utm_content=badge)
 
@@ -475,4 +475,4 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
