@@ -1,6 +1,6 @@
 # Awesome Deep Vision with stars
 
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,723 | 🐛 94 | 📅 2026-09-27 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,586 | 🐛 99 | 📅 2024-05-17.
+A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,726 | 🐛 94 | 📅 2026-09-27 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,587 | 🐛 99 | 📅 2024-05-17.
 
 Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
 
@@ -144,7 +144,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 #### Other Applications
 
-* Colorful Image Colorization Richard Zhang, Phillip Isola, Alexei A. Efros, ECCV, 2016 [\[Paper\]](http://arxiv.org/pdf/1603.08511.pdf), [\[Code\]](https://github.com/richzhang/colorization) ⭐ 3,464 | 🐛 60 | 🌐 Python | 📅 2023-11-27
+* Colorful Image Colorization Richard Zhang, Phillip Isola, Alexei A. Efros, ECCV, 2016 [\[Paper\]](http://arxiv.org/pdf/1603.08511.pdf), [\[Code\]](https://github.com/richzhang/colorization) ⭐ 3,465 | 🐛 60 | 🌐 Python | 📅 2023-11-27
 * Feature Learning by Inpainting[\[Paper\]](https://arxiv.org/pdf/1604.07379v1.pdf)[\[Code\]](https://github.com/pathak22/context-encoder) ⭐ 907 | 🐛 117 | 🌐 Lua | 📅 2020-07-19
   * Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei A. Efros, Context Encoders: Feature Learning by Inpainting, CVPR, 2016
 * Optical Flow (FlowNet) [\[Paper\]](http://arxiv.org/pdf/1504.06852)
@@ -475,4 +475,4 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
