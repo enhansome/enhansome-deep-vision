@@ -1,6 +1,6 @@
 # Awesome Deep Vision with stars
 
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,736 | 🐛 95 | 📅 2026-09-27 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,586 | 🐛 97 | 📅 2024-05-17.
+A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,738 | 🐛 95 | 📅 2026-09-27 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,591 | 🐛 97 | 📅 2024-05-17.
 
 Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
 
@@ -74,10 +74,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ![object\_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
 (from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)
 
-* You Only Look Once: Unified, Real-Time Object Detection [\[Paper\]](http://arxiv.org/abs/1506.02640), [\[Paper Version 2\]](https://arxiv.org/abs/1612.08242), [\[C Code\]](https://github.com/pjreddie/darknet) ⭐ 26,512 | 🐛 1,978 | 🌐 C | 📅 2024-05-03, [\[Tensorflow Code\]](https://github.com/thtrieu/darkflow) ⭐ 6,141 | 🐛 641 | 🌐 Python | 📅 2023-10-23
+* You Only Look Once: Unified, Real-Time Object Detection [\[Paper\]](http://arxiv.org/abs/1506.02640), [\[Paper Version 2\]](https://arxiv.org/abs/1612.08242), [\[C Code\]](https://github.com/pjreddie/darknet) ⭐ 26,511 | 🐛 1,978 | 🌐 C | 📅 2024-05-03, [\[Tensorflow Code\]](https://github.com/thtrieu/darkflow) ⭐ 6,141 | 🐛 641 | 🌐 Python | 📅 2023-10-23
   * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
   * Joseph Redmon, Ali Farhadi (Version 2)
-* SSD [\[Paper\]](https://arxiv.org/pdf/1512.02325v2.pdf) [\[Code\]](https://github.com/weiliu89/caffe/tree/ssd) ⭐ 4,808 | 🐛 676 | 🌐 C++ | 📅 2023-04-21
+* SSD [\[Paper\]](https://arxiv.org/pdf/1512.02325v2.pdf) [\[Code\]](https://github.com/weiliu89/caffe/tree/ssd) ⭐ 4,809 | 🐛 676 | 🌐 C++ | 📅 2023-04-21
   * Wei Liu1, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg, SSD: Single Shot MultiBox Detector, arXiv:1512.02325
 * R-FCN [\[Paper\]](https://arxiv.org/abs/1605.06409) [\[Code\]](https://github.com/daijifeng001/R-FCN) ⭐ 1,247 | 🐛 30 | 🌐 Matlab | 📅 2017-05-05
   * Jifeng Dai, Yi Li, Kaiming He, Jian Sun, R-FCN: Object Detection via Region-based Fully Convolutional Networks
@@ -475,4 +475,4 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
