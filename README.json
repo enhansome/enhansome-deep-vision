@@ -18,7 +18,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2024-05-03T13:53:58Z",
-                "open_issues": 1978,
+                "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
                 "stars": 26511,
@@ -68,7 +68,7 @@
                 "open_issues": 30,
                 "owner": "daijifeng001",
                 "repo": "R-FCN",
-                "stars": 1247,
+                "stars": 1248,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -189,7 +189,7 @@
                     "open_issues": 60,
                     "owner": "richzhang",
                     "repo": "colorization",
-                    "stars": 3464,
+                    "stars": 3465,
                     "topics": [
                       "automatic-colorization",
                       "caffe",
@@ -362,7 +362,7 @@
                     "open_issues": 14,
                     "owner": "junyanz",
                     "repo": "iGAN",
-                    "stars": 4012,
+                    "stars": 4013,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -401,7 +401,7 @@
                 "open_issues": 316,
                 "owner": "jcjohnson",
                 "repo": "neural-style",
-                "stars": 18262,
+                "stars": 18263,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -435,7 +435,7 @@
                 "open_issues": 11,
                 "owner": "mpatacchiola",
                 "repo": "deepgaze",
-                "stars": 1885,
+                "stars": 1886,
                 "topics": [
                   "cnn",
                   "color-detection",
@@ -503,7 +503,7 @@
                     "open_issues": 192,
                     "owner": "mila-iqia",
                     "repo": "blocks",
-                    "stars": 1151,
+                    "stars": 1152,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
@@ -538,7 +538,7 @@
                     "open_issues": 7,
                     "owner": "goodfeli",
                     "repo": "adversarial",
-                    "stars": 4089,
+                    "stars": 4090,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
@@ -594,7 +594,7 @@
                     "open_issues": 54,
                     "owner": "rbgirshick",
                     "repo": "rcnn",
-                    "stars": 2415,
+                    "stars": 2416,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
@@ -643,7 +643,7 @@
                     "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28237,
+                    "stars": 28240,
                     "topics": [
                       "super-resolution",
                       "torch",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:22:59.799Z",
+    "last_updated": "2026-10-30T19:57:49.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
@@ -725,7 +725,7 @@
       "open_issues": 47,
       "owner": "kjw0612",
       "repo": "awesome-deep-vision",
-      "stars": 11190,
+      "stars": 11192,
       "topics": []
     },
     "original_repository_sha": "9ebfacb00edcab273fd1d7049eaa7eccc69a29cd",
