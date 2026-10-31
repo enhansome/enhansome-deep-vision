@@ -1,6 +1,6 @@
 # Awesome Deep Vision with stars
 
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,778 | 🐛 79 | 📅 2026-10-30 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,626 | 🐛 99 | 📅 2024-05-17.
+A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,779 | 🐛 80 | 📅 2026-10-30 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,627 | 🐛 99 | 📅 2024-05-17.
 
 Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
 
@@ -167,7 +167,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ![edge\_detection](https://cloud.githubusercontent.com/assets/5226447/8452371/93ca6f7e-2025-11e5-90f2-d428fd5ff7ac.PNG)
 (from Gedas Bertasius, Jianbo Shi, Lorenzo Torresani, DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, CVPR, 2015.)
 
-* Holistically-Nested Edge Detection [\[Paper\]](http://arxiv.org/pdf/1504.06375) [\[Code\]](https://github.com/s9xie/hed) ⭐ 1,925 | 🐛 75 | 🌐 C++ | 📅 2024-04-07
+* Holistically-Nested Edge Detection [\[Paper\]](http://arxiv.org/pdf/1504.06375) [\[Code\]](https://github.com/s9xie/hed) ⭐ 1,926 | 🐛 75 | 🌐 C++ | 📅 2024-04-07
   * Saining Xie, Zhuowen Tu, Holistically-Nested Edge Detection, arXiv:1504.06375.
 * DeepEdge [\[Paper\]](http://arxiv.org/pdf/1412.1123)
   * Gedas Bertasius, Jianbo Shi, Lorenzo Torresani, DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, CVPR, 2015.
@@ -457,7 +457,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Super-Resolution
   * Image Super-Resolution for Anime-Style-Art [\[Web\]](https://github.com/nagadomi/waifu2x) ⭐ 28,240 | 🐛 154 | 🌐 Lua | 📅 2023-05-04
 * Edge Detection
-  * Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015. [\[Web\]](https://github.com/s9xie/hed) ⭐ 1,925 | 🐛 75 | 🌐 C++ | 📅 2024-04-07
+  * Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015. [\[Web\]](https://github.com/s9xie/hed) ⭐ 1,926 | 🐛 75 | 🌐 C++ | 📅 2024-04-07
   * Source code for the paper "DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection," CVPR, 2015. [\[Web\]](https://github.com/shenwei1231/DeepContour) ⭐ 95 | 🐛 11 | 🌐 MATLAB | 📅 2022-03-19
 
 ## Tutorials
@@ -475,4 +475,4 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
