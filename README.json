@@ -68,7 +68,7 @@
                 "open_issues": 30,
                 "owner": "daijifeng001",
                 "repo": "R-FCN",
-                "stars": 1248,
+                "stars": 1249,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -538,7 +538,7 @@
                     "open_issues": 7,
                     "owner": "goodfeli",
                     "repo": "adversarial",
-                    "stars": 4090,
+                    "stars": 4092,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
@@ -643,7 +643,7 @@
                     "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28240,
+                    "stars": 28241,
                     "topics": [
                       "super-resolution",
                       "torch",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:23:53.916Z",
+    "last_updated": "2026-11-01T19:49:03.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
