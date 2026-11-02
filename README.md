@@ -1,6 +1,6 @@
 # Awesome Deep Vision with stars
 
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,779 | 🐛 80 | 📅 2026-10-30 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,628 | 🐛 99 | 📅 2024-05-17.
+A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,783 | 🐛 80 | 📅 2026-10-30 and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,628 | 🐛 99 | 📅 2024-05-17.
 
 Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
 
@@ -74,7 +74,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ![object\_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
 (from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)
 
-* You Only Look Once: Unified, Real-Time Object Detection [\[Paper\]](http://arxiv.org/abs/1506.02640), [\[Paper Version 2\]](https://arxiv.org/abs/1612.08242), [\[C Code\]](https://github.com/pjreddie/darknet) ⭐ 26,511 | 🐛 1,977 | 🌐 C | 📅 2024-05-03, [\[Tensorflow Code\]](https://github.com/thtrieu/darkflow) ⭐ 6,139 | 🐛 641 | 🌐 Python | 📅 2023-10-23
+* You Only Look Once: Unified, Real-Time Object Detection [\[Paper\]](http://arxiv.org/abs/1506.02640), [\[Paper Version 2\]](https://arxiv.org/abs/1612.08242), [\[C Code\]](https://github.com/pjreddie/darknet) ⭐ 26,512 | 🐛 1,977 | 🌐 C | 📅 2024-05-03, [\[Tensorflow Code\]](https://github.com/thtrieu/darkflow) ⭐ 6,139 | 🐛 641 | 🌐 Python | 📅 2023-10-23
   * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
   * Joseph Redmon, Ali Farhadi (Version 2)
 * SSD [\[Paper\]](https://arxiv.org/pdf/1512.02325v2.pdf) [\[Code\]](https://github.com/weiliu89/caffe/tree/ssd) ⭐ 4,809 | 🐛 676 | 🌐 C++ | 📅 2023-04-21
@@ -144,7 +144,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 #### Other Applications
 
-* Colorful Image Colorization Richard Zhang, Phillip Isola, Alexei A. Efros, ECCV, 2016 [\[Paper\]](http://arxiv.org/pdf/1603.08511.pdf), [\[Code\]](https://github.com/richzhang/colorization) ⭐ 3,465 | 🐛 60 | 🌐 Python | 📅 2023-11-27
+* Colorful Image Colorization Richard Zhang, Phillip Isola, Alexei A. Efros, ECCV, 2016 [\[Paper\]](http://arxiv.org/pdf/1603.08511.pdf), [\[Code\]](https://github.com/richzhang/colorization) ⭐ 3,470 | 🐛 60 | 🌐 Python | 📅 2023-11-27
 * Feature Learning by Inpainting[\[Paper\]](https://arxiv.org/pdf/1604.07379v1.pdf)[\[Code\]](https://github.com/pathak22/context-encoder) ⭐ 907 | 🐛 117 | 🌐 Lua | 📅 2020-07-19
   * Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei A. Efros, Context Encoders: Feature Learning by Inpainting, CVPR, 2016
 * Optical Flow (FlowNet) [\[Paper\]](http://arxiv.org/pdf/1504.06852)
@@ -441,7 +441,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Torch-based deep learning libraries: \[[torchnet](https://github.com/torchnet/torchnet) ⚠️ Archived],
 * Caffe: Deep learning framework by the BVLC \[[Web](http://caffe.berkeleyvision.org/)]
 * Theano: Mathematical library in Python, maintained by LISA lab \[[Web](http://deeplearning.net/software/theano/)]
-  * Theano-based deep learning libraries: \[[Pylearn2](http://deeplearning.net/software/pylearn2/)], \[[Blocks](https://github.com/mila-udem/blocks) ⭐ 1,152 | 🐛 192 | 🌐 Python | 📅 2019-02-19], \[[Keras](http://keras.io/)], \[[Lasagne](https://github.com/Lasagne/Lasagne) ⭐ 3,857 | 🐛 140 | 🌐 Python | 📅 2022-03-26]
+  * Theano-based deep learning libraries: \[[Pylearn2](http://deeplearning.net/software/pylearn2/)], \[[Blocks](https://github.com/mila-udem/blocks) ⭐ 1,152 | 🐛 192 | 🌐 Python | 📅 2019-02-19], \[[Keras](http://keras.io/)], \[[Lasagne](https://github.com/Lasagne/Lasagne) ⭐ 3,856 | 🐛 140 | 🌐 Python | 📅 2022-03-26]
 * MatConvNet: CNNs for MATLAB \[[Web](http://www.vlfeat.org/matconvnet/)]
 * MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support \[[Web](http://mxnet.io/)]
 
@@ -475,4 +475,4 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
