@@ -21,7 +21,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26513,
+                "stars": 26512,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -42,7 +42,7 @@
                 "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4808,
+                "stars": 4807,
                 "topics": [
                   "deep-learning",
                   "object-detection",
@@ -68,7 +68,7 @@
                 "open_issues": 30,
                 "owner": "daijifeng001",
                 "repo": "R-FCN",
-                "stars": 1249,
+                "stars": 1248,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -89,7 +89,7 @@
                 "open_issues": 63,
                 "owner": "sanghoon",
                 "repo": "pva-faster-rcnn",
-                "stars": 649,
+                "stars": 648,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -189,7 +189,7 @@
                     "open_issues": 60,
                     "owner": "richzhang",
                     "repo": "colorization",
-                    "stars": 3472,
+                    "stars": 3474,
                     "topics": [
                       "automatic-colorization",
                       "caffe",
@@ -435,7 +435,7 @@
                 "open_issues": 11,
                 "owner": "mpatacchiola",
                 "repo": "deepgaze",
-                "stars": 1886,
+                "stars": 1887,
                 "topics": [
                   "cnn",
                   "color-detection",
@@ -594,7 +594,7 @@
                     "open_issues": 54,
                     "owner": "rbgirshick",
                     "repo": "rcnn",
-                    "stars": 2417,
+                    "stars": 2418,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
@@ -643,7 +643,7 @@
                     "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28238,
+                    "stars": 28239,
                     "topics": [
                       "super-resolution",
                       "torch",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:21:51.013Z",
+    "last_updated": "2026-11-11T22:05:02.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
