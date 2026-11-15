@@ -261,7 +261,7 @@
                 "open_issues": 75,
                 "owner": "s9xie",
                 "repo": "hed",
-                "stars": 1925,
+                "stars": 1926,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -643,7 +643,7 @@
                     "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28231,
+                    "stars": 28236,
                     "topics": [
                       "super-resolution",
                       "torch",
@@ -675,7 +675,7 @@
                     "open_issues": 75,
                     "owner": "s9xie",
                     "repo": "hed",
-                    "stars": 1925,
+                    "stars": 1926,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:59:02.770Z",
+    "last_updated": "2026-11-15T20:27:28.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
