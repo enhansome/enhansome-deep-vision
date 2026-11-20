@@ -21,7 +21,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26514,
+                "stars": 26518,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -189,7 +189,7 @@
                     "open_issues": 60,
                     "owner": "richzhang",
                     "repo": "colorization",
-                    "stars": 3474,
+                    "stars": 3475,
                     "topics": [
                       "automatic-colorization",
                       "caffe",
@@ -261,7 +261,7 @@
                 "open_issues": 75,
                 "owner": "s9xie",
                 "repo": "hed",
-                "stars": 1926,
+                "stars": 1927,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -594,7 +594,7 @@
                     "open_issues": 54,
                     "owner": "rbgirshick",
                     "repo": "rcnn",
-                    "stars": 2415,
+                    "stars": 2416,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
@@ -643,7 +643,7 @@
                     "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28235,
+                    "stars": 28236,
                     "topics": [
                       "super-resolution",
                       "torch",
@@ -675,7 +675,7 @@
                     "open_issues": 75,
                     "owner": "s9xie",
                     "repo": "hed",
-                    "stars": 1926,
+                    "stars": 1927,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:41:51.094Z",
+    "last_updated": "2026-11-20T22:16:57.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
