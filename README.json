@@ -21,7 +21,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26521,
+                "stars": 26520,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -189,7 +189,7 @@
                     "open_issues": 60,
                     "owner": "richzhang",
                     "repo": "colorization",
-                    "stars": 3475,
+                    "stars": 3476,
                     "topics": [
                       "automatic-colorization",
                       "caffe",
@@ -209,11 +209,11 @@
                   "repo_info": {
                     "archived": false,
                     "description": "[CVPR 2016] Unsupervised Feature Learning by Image Inpainting using GANs",
-                    "homepage": "https://www.cs.cmu.edu/~dpathak/context_encoder/",
+                    "homepage": "https://pathak22.github.io/context-encoder/",
                     "id": 56881233,
                     "language": "Lua",
                     "license": "NOASSERTION",
-                    "last_commit": "2020-07-19T21:37:48Z",
+                    "last_commit": "2026-11-24T19:10:41Z",
                     "open_issues": 117,
                     "owner": "pathak22",
                     "repo": "context-encoder",
@@ -643,7 +643,7 @@
                     "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28235,
+                    "stars": 28236,
                     "topics": [
                       "super-resolution",
                       "torch",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:25:53.257Z",
+    "last_updated": "2026-11-24T23:58:17.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
