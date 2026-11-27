@@ -21,7 +21,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26523,
+                "stars": 26524,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -261,7 +261,7 @@
                 "open_issues": 75,
                 "owner": "s9xie",
                 "repo": "hed",
-                "stars": 1927,
+                "stars": 1926,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -401,7 +401,7 @@
                 "open_issues": 318,
                 "owner": "jcjohnson",
                 "repo": "neural-style",
-                "stars": 18269,
+                "stars": 18267,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:36.357Z"
@@ -643,7 +643,7 @@
                     "open_issues": 154,
                     "owner": "nagadomi",
                     "repo": "waifu2x",
-                    "stars": 28238,
+                    "stars": 28235,
                     "topics": [
                       "super-resolution",
                       "torch",
@@ -675,7 +675,7 @@
                     "open_issues": 75,
                     "owner": "s9xie",
                     "repo": "hed",
-                    "stars": 1927,
+                    "stars": 1926,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:36.357Z"
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:55:31.733Z",
+    "last_updated": "2026-11-27T23:36:23.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning resources for computer vision ",
